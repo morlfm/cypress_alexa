@@ -1,0 +1,12 @@
+version: '3.2'
+services:
+    environment:
+      - PORT=8123
+  cypress:
+    image: "cypress/included:6.5.0"
+    environment:
+      - CYPRESS_baseUrl=https://amazon.com.br
+      - shm-size=1g
+    working_dir: /e2e
+    volumes:
+      - ./:/e2e
