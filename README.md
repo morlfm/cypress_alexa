@@ -10,7 +10,9 @@ This repo shows a basic example of using Cypress and Docker Compose to create si
 ## Run end-to-end tests
 
 -Need to have:
+
 .Docker installed
+
 .Git clone the project
 
 
