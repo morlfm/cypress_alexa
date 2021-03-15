@@ -1,7 +1,8 @@
 version: '3.2'
 services:
   cypress:
-    image: "cypress/included:6.4.0"
+    image: "cypress/included:6.5.0"
+    command: "--browser chrome"
     environment:
       - CYPRESS_baseUrl=https://amazon.com.br
       - shm-size=1g
