@@ -13,6 +13,7 @@ Need to have:
 
 Docker installed
 
+(https://www.docker.com/products/docker-desktop)
 
 Git clone the project
 
