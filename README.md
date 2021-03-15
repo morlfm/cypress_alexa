@@ -6,6 +6,7 @@ This repo shows a basic example of using Cypress and Docker Compose to create si
 
 The File - Order_canceled_by_alexa_spec is not public enabled/available
 
+Browser Firefox was used on Docker Compose File . ( you can change it if you need ) 
 
 ## Run end-to-end tests
 
