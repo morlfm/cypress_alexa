@@ -11,9 +11,9 @@ This repo shows a basic example of using Cypress and Docker Compose to create si
 
 -Need to have:
 
-.Docker installed
+Docker installed
 
-.Git clone the project
+Git clone the project
 
 
 To execute the end-to-end tests for docker_cypress_alexa, enter the following commands:
