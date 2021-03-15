@@ -6,7 +6,13 @@ This repo shows a basic example of using Cypress and Docker Compose to create si
 
 -Order_canceled_by_alexa_spec is not public enabled/available
 
+
 ## Run end-to-end tests
+
+-Need to have:
+.Docker installed
+.Git clone the project
+
 
 To execute the end-to-end tests for docker_cypress_alexa, enter the following commands:
 
