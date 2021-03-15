@@ -4,12 +4,12 @@
 
 This repo shows a basic example of using Cypress and Docker Compose to create simple end-to-end tests for any web application.
 
--Order_canceled_by_alexa_spec is not public enabled/available
+Order_canceled_by_alexa_spec is not public enabled/available
 
 
 ## Run end-to-end tests
 
--Need to have:
+Need to have:
 
 Docker installed
 
